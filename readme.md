@@ -9,7 +9,7 @@ Currently, I'm engaged in a role where I focus on enhancing developer experience
 In 2024, I'm set to graduate with a degree in Information Systems, which I believe will further enrich my understanding of the field and open up new avenues for exploration.
 
 ## What You'll Find Here
-In this repository, you can expect to find a variety of projects and code snippets that showcase my proficiency in Go and my journey in the world of software development. While my expertise primarily lies in Go, I also have a foundational understanding of Python and JavaScript. As I continue to learn and grow, I plan to incorporate more diverse projects that reflect my expanding skill set.
+In this repo, you can expect to find a variety of projects and code snippets that showcase my proficiency in Go and my journey in the world of software development. While my expertise primarily lies in Go, I also have a foundational understanding of Python and JavaScript. As I continue to learn and grow, I plan to incorporate more diverse projects that reflect my expanding skill set.
 
 Feel free to explore the code, try out the projects, and provide any feedback you may have. I'm a firm believer in the value of collaborative development and learning from one another.
 
