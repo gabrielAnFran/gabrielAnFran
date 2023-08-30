@@ -17,7 +17,7 @@ Feel free to explore the code, try out the projects, and provide any feedback yo
 I'm always open to connecting with fellow developers, enthusiasts, and anyone interested in software development. If you have questions about any of the projects, 
 want to discuss technology trends, or simply want to have a chat, feel free to reach out to me. You can connect with me through my email antunes.f.gabriel@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/gabriel-fran%C3%A7a-3b337419b/).
 
-Thank you for visiting my GitHub repository. Happy coding!
+Thank you for visiting my GitHub repo. Arriba y avante!
 
 Best regards,
 Gabriel
