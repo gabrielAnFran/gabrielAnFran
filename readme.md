@@ -1,5 +1,6 @@
 # Welcome to My GitHub Profile!
-Hey there! 👋 Welcome to my GitHub repository. Here, you'll find a collection of projects and code snippets that reflect my journey and experience as a Go developer, as well as my recent ventures into improving developer experience on an edge platform. I'm passionate about creating efficient and well-documented solutions that solve real-world problems.
+Hey there! 👋 
+Welcome to my GitHub repo. Here, you'll find a collection of projects and code snippets that reflect my journey and experience as a Go developer, as well as my recent ventures into improving developer experience on an edge platform. I'm passionate about creating efficient and well-documented solutions that solve real-world problems.
 
 ## About Me
 I'm a software developer with 3 years of experience working as a Go developer. During this time, I had the opportunity to contribute to the development and maintenance of a cutting-edge agritech solution. My role encompassed developing backend services using Go, integrating with PostgreSQL for data storage, setting up containerized applications with Docker, ensuring seamless communication using RabbitMQ, and even dabbling a bit in Node.js to enhance certain aspects of the system.
